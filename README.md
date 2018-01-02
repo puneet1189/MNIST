@@ -1,4 +1,4 @@
 # MNIST - Deep Learning
 
-1. Coded in python.
-2. Make sure the lmdb files are ready.
+1. Used Caffe.
+2. Caffe prefers lmdb files for large datasets. Hence need to run create.sh after running get.sh
